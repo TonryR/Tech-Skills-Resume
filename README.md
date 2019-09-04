@@ -1,6 +1,6 @@
 <h1> Technical Skills and Certifications </h1>
 
-Included below are the technical skills and certifications I achieved as a Computer Information Systems major at the University of Tulsa.
+Make sure to click the arrow tabs to see my completion and progression of Technical Skills and Certifications.
 
 <h2> Technical Skills </h2>
 
