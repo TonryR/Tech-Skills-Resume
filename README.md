@@ -27,6 +27,3 @@ Make sure to click the arrow tabs to see my completion and progression of Techni
   <img src="FirstWeekGitHub.png" alt="FirstWeek">
   
   </details>
-
-
-<h2> Certifications </h2>
