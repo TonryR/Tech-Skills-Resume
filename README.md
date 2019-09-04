@@ -24,3 +24,9 @@ Included below are the technical skills and certifications I achieved as a Compu
   <h4> Proof of Course Accomplishment: </h4>
   <img src="FirstDayGitHub.png" alt="FirstDay">
   
+  <img src="FirstWeekGitHub.png" alt="FirstWeek">
+  
+  </details>
+
+
+<h2> Certifications </h2>
