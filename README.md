@@ -67,7 +67,7 @@ A requirement for my Emergent Tech Skills class, I was able to complete and desi
 
 
 <h4> Description </h4>
-  I have taken and completed the course for LPI Linux Essentials at <a href="https://linuxacademy.com">Linux Academy.</a> These courses included introduction to Linux as an operating system, Linux Kernal, command line syntax , and the overall capabilities of Linux.
+  I have taken and completed the course for LPI Linux Essentials at <a href="https://linuxacademy.com">Linux Academy.</a> These courses included an introduction to Linux as an operating system, Linux Kernal, command line syntax, and the overall capabilities of Linux.
   
   <h4>Topics:</h4>
 <ul>
@@ -92,4 +92,5 @@ A requirement for my Emergent Tech Skills class, I was able to complete and desi
 
 <h4> Proof of Completion: </h4>
 LPI Linux Essentials Course Completion Certificate:
-<img src="LPI.pdf" alt="LPI Linux Essentials Course Completion">
+<img src="LPI.png" alt="LPI Linux Essentials Course Completion">
+</details>
