@@ -62,3 +62,34 @@ A requirement for my Emergent Tech Skills class, I was able to complete and desi
 <br>
   <img src="TRSPA.jpg" alt="PD">
 </details>
+
+<details><summary>Linux</summary>
+
+
+<h4> Description </h4>
+  I have taken and completed the course for LPI Linux Essentials at <a href="https://linuxacademy.com">Linux Academy.</a> These courses included introduction to Linux as an operating system, Linux Kernal, command line syntax , and the overall capabilities of Linux.
+  
+  <h4>Topics:</h4>
+<ul>
+<li>The Linux Community and a Career in Open Source</li>
+<li>Linux Evolution and Popular Operating Systems</li>
+<li>How to Access a Linux Installation</li>
+<li>Major Open Source Applications</li>  
+<li>Understanding Open Source Software and Licensing</li> 
+<li>ICT Skills and Working in Linux</li>
+<li>Command Line Basics</li> 
+<li>Using Directories and Listing Files</li> 
+<li>Archiving Files on the Command Line</li> 
+<li>Searching and Extracting Data from Files</li> 
+<li>Turning Commands into a Script</li>
+<li>The Linux Operating System</li>
+<li>Security and File Permissions</li>
+<li>Basic Security and Identifying User Groups</li>
+<li>Creating Users and Groups</li> 
+<li>Managing File Permissions and Ownership</li> 
+<li>Special Directories and Files</li> 
+</ul>
+
+<h4> Proof of Completion: </h4>
+LPI Linux Essentials Course Completion Certificate:
+<img src="LPI.pdf" alt="LPI Linux Essentials Course Completion">
