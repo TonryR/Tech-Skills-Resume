@@ -67,30 +67,27 @@ A requirement for my Emergent Tech Skills class, I was able to complete and desi
 
 
 <h4> Description </h4>
-  I have taken and completed the course for LPI Linux Essentials at <a href="https://linuxacademy.com">Linux Academy.</a> These courses included an introduction to Linux as an operating system, Linux Kernal, command line syntax, and the overall capabilities of Linux.
+  I have taken and completed the course for LPI Linux Essentials at <a href="https://linuxacademy.com">Linux Academy.</a> These courses included an introduction to Linux as an operating system, Linux Kernal, command line syntax, and the overall capabilities of Linux. After taking this course, I have become more familiar with the functionality and current applications that use Linux. The ability to use this to make a system secure with permissions and ownership displays the security benefits with understanding Linux!
   
-  <h4>Topics:</h4>
+  <h4><a href="https://linuxacademy.com/cp/modules/view/id/346?redirect_uri=https://app.linuxacademy.com/search?query=linux%20essentials">Course Topics:</a></h4>
 <ul>
-<li>The Linux Community and a Career in Open Source</li>
 <li>Linux Evolution and Popular Operating Systems</li>
-<li>How to Access a Linux Installation</li>
 <li>Major Open Source Applications</li>  
-<li>Understanding Open Source Software and Licensing</li> 
 <li>ICT Skills and Working in Linux</li>
-<li>Command Line Basics</li> 
 <li>Using Directories and Listing Files</li> 
-<li>Archiving Files on the Command Line</li> 
-<li>Searching and Extracting Data from Files</li> 
-<li>Turning Commands into a Script</li>
 <li>The Linux Operating System</li>
 <li>Security and File Permissions</li>
 <li>Basic Security and Identifying User Groups</li>
-<li>Creating Users and Groups</li> 
 <li>Managing File Permissions and Ownership</li> 
 <li>Special Directories and Files</li> 
 </ul>
 
-<h4> Proof of Completion: </h4>
-LPI Linux Essentials Course Completion Certificate:
+<h4> LPI Linux Essentials Course Completion Certificate: </h4>
 <img src="LPI.png" alt="LPI Linux Essentials Course Completion">
+<br>
+<br>
+With the completion of the Linux Essentials course, I was able to install Virtual Box and Ubuntu from this <a href="https://sal-a.github.io/vbox-ubuntu/#2-download-an-iso-file-for-ubuntu-from-httpsubuntucomdownloaddesktop">installation guide</a> to deploy an Algo VPN IPSec server installation and operational test with these <a href="https://github.com/trailofbits/algo">setup instructions</a> that utilized Digital Ocean. The subsequent screenshot helps showcase the successful host IP address, AlgoVPN IP address, and DigitalOcean droplet:
+<br>
+<br>
+<img src="DigitalLinuxVPN.png" alt="DLVPN">
 </details>
