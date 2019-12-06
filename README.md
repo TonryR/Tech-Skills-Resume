@@ -7,32 +7,32 @@ Make sure to click the arrow tabs to see my completion and progression of Techni
 <details><summary>GITHUB LEARNING LAB</summary>
   
   
-  <h4> Description </h4>
-  I have completed the introductory First Day and Week on <a href="https://lab.github.com/courses">GitHub Learning Lab</a> 
+  <h4> Description: </h4>
+  I have completed the introductory First Day and Week on <a href="https://lab.github.com/courses">GitHub Learning Lab.</a> The following topics helped me to understand fundamental tools such as merges, pull requests, and how to collaborate with others on multiple projects easily. Github is used my many people to share, edit, and assist pieces of codes, projects, and systems. This technical resume is managed with a personal repository that is used with Github too!
+ <br>
+ <h4>The GitHub Lab courses that were completed include: </h4>
+ <ul>
+ <li>Introduction to GitHub: Closing an Issue, Creating Branches, and Merging Pull Requests </li>
+ <li>Communicating using Markdown: Adding Headers, Images, and Lists </li>
+ <li>Uploading projects to GitHub: Learning the basics of preparing uploads/projects </li>
+ <li>GitHub Pages Knowledge: Customizing homepage and site details</li>
+ <li>Pull Request Functionalities: Fundamentals for creating and reviewing pull requests.</li>
+ <li>Managing Merge Conflicts: Creating and resolving conflicts</li>
+ <li>Securing workflows: Updating Dependency versions and finding Vulnerable Dependencies</li>
+ </ul>
+ <h4> Proof of Course Accomplishment: </h4>
+ <br>
+ <img src="FirstDayGitHub.png" alt="FirstDay">
   
-  <ul>
-  The GitHub Lab courses that were completed include:
-  <li>Introduction to GitHub: Closing an Issue, Creating Branches, and Merging Pull Requests </li>
-  <li>Communicating using Markdown: Adding Headers, Images, and Lists </li>
-  <li>Uploading projects to GitHub: Learning the basics of preparing uploads/projects </li>
-  <li>GitHub Pages Knowledge: Customizing homepage and site details</li>
-  <li>Pull Request Functionalities: Fundamentals for creating and reviewing pull requests.</li>
-  <li>Managing Merge Conflicts: Creating and resolving conflicts</li>
-  <li>Securing workflows: Updating Dependency versions and finding Vulnerable Dependencies</li>
-  </ul>
+ <img src="FirstWeekGitHub.png" alt="FirstWeek">
   
-  <h4> Proof of Course Accomplishment: </h4>
-  <img src="FirstDayGitHub.png" alt="FirstDay">
-  
-  <img src="FirstWeekGitHub.png" alt="FirstWeek">
-  
-  </details>
+ </details>
   
   <details><summary>PowerBI</summary>
   
   
-  <h4> Description </h4>
-  I have taken and completed the labs, exercises, and videos for Microsoft's PowerBI at edX's training courses <a href="https://www.edx.org/course/analyzing-visualizing-data-power-bi-4">Analyzing and Visualzing Data with PowerBI</a> These courses included learning how to import various data types, contruct and modify dashboards, and interpret and manipulate data for different visualizations.
+  <h4> Description: </h4>
+  I have taken and completed the labs, exercises, and videos for Microsoft's PowerBI at edX's training courses <a href="https://www.edx.org/course/analyzing-visualizing-data-power-bi-4">Analyzing and Visualzing Data with PowerBI</a> These courses included learning how to import various data types, contruct and modify dashboards, and interpret and manipulate data for different visualizations. The following modules have taught me how to intepret various data types and the ability to optimize multiple visualizations on a dashboard or published report.
 
 <h4>Courses:</h4> 
 <ul>
@@ -45,9 +45,8 @@ Make sure to click the arrow tabs to see my completion and progression of Techni
 <li>Developer API: Using Custom Visuals and Others Applications</li>
 <li>Mobile App: Functionality with Mobile Layout</li>
 </ul>
-<br>
+<h4> Proof of Completion: </h4>
 <img src="TonryRobertsBI.png" alt="Power">
-<br>
 </details>
 
 
