@@ -49,9 +49,10 @@ Make sure to click the arrow tabs to see my completion and progression of Techni
 <img src="TonryRobertsBI.png" alt="Power">
 </details>
 
-
 <details><summary>Power BI Dashboard</summary>
-<br>
+  
+  
+<h4> Description: </h4>
 A requirement for my Emergent Tech Skills class included the ability to complete and design a dashboard from the <a href="https://docs.microsoft.com/en-us/power-bi/sample-supplier-quality">Supplier Quality Analysis sample</a> provided by Microsoft. Clicking the following link will provide you a video demostration of my dashboard: <a href="https://youtu.be/-NOagJzF1gU">Supplier Quality Analysis Dashboard.</a>  Having the tools to be able to create a visualization with important information is one of the most valuble assets about using Power BI!
 <br>
 <br>
@@ -65,7 +66,7 @@ A requirement for my Emergent Tech Skills class included the ability to complete
 <details><summary>Linux</summary>
 
 
-<h4> Description </h4>
+<h4> Description: </h4>
   I have taken and completed the course for LPI Linux Essentials at <a href="https://linuxacademy.com">Linux Academy.</a> These courses included an introduction to Linux as an operating system, Linux Kernal, command line syntax, and the overall capabilities of Linux. After taking this course, I have become more familiar with the functionality and current applications that use Linux. The ability to use this to make a system secure with permissions and ownership displays the security benefits with understanding Linux!
   
   <h4><a href="https://linuxacademy.com/cp/modules/view/id/346?redirect_uri=https://app.linuxacademy.com/search?query=linux%20essentials">Course Topics:</a></h4>
@@ -90,3 +91,31 @@ With the completion of the Linux Essentials course, I was able to install Virtua
 <br>
 <img src="DigitalLinuxVPN.png" alt="DLVPN">
 </details>
+
+<details><summary>AWS</summary>
+  
+  
+  <h4> Description: </h4>
+  With the completion of the Amazon Web Services Essentials course on <a href="https://linuxacademy.com">Linux Academy,</a> I was able to be introduced to the core of AWS services and the ability of applying the following concepts to real-world applications. Additonally, I learned how to setup my personal AWS account, understand management tools, and how AWS uses its platform to manage databases, storage services, and elastic cloud computations. AWS has become beneficial for organizations to stay ahead or keep up with new resources and capabilities.
+  
+  <h4><a href="https://linuxacademy.com/cp/modules/view/id/241?redirect_uri=https://app.linuxacademy.com/search?query=w&categories=AWS&type=Course">Course Topics:<a/></h4>
+  <ul>
+<li>Managing AWS Access with Users, Groups, and Roles</li>
+<li>Networking Services and Connectivity</li>  
+<li>Compute Services</li>
+<li>Storage Services</li> 
+<li>Database Services</li>
+<li>Monitoring, Alerts, and Notifications</li>
+<li>Load Balancing, Elasticity, and Scalability</li>
+<li>Serverless Compute</li>  
+</ul>
+  
+<h4> AWS Essentials Course Completion Certificate: </h4>
+<img src="AWSEssen.png" alt="AWSE">
+<br>
+<br>
+After completing the AWS Essentials course, I configured an additonal Virtual Private Network with an OpenVPN Access Server that would be on AWS. I followed this <a href="https://openvpn.net/vpn-server-resources/amazon-web-services-ec2-byol-appliance-quick-start-guide/">installation guide</a> which included the launch and configuration steps to deploy the OpenVPN Access Server on EC2 within AWS. The following screenshot helps showcase my accomplished OpenVPN Access Server launch with my current EC2 instance and Active Configuration:
+<br>
+<br>
+<img src="AWSInstan.png" alt="AWSI">
+<img src="OpenAWS.png" alt="OAWS">
