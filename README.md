@@ -10,7 +10,7 @@ Make sure to click the arrow tabs to see my completion and progression of Techni
   <h4> Description: </h4>
   I have completed the introductory First Day and Week on <a href="https://lab.github.com/courses">GitHub Learning Lab.</a> The following topics helped me to understand fundamental tools such as merges, pull requests, and how to collaborate with others on multiple projects easily. Github is used my many people to share, edit, and assist pieces of codes, projects, and systems. This technical resume is managed with a personal repository that is used with Github too!
  <br>
- <h4>The GitHub Lab courses that were completed include: </h4>
+ <h4>Courses: </h4>
  <ul>
  <li>Introduction to GitHub: Closing an Issue, Creating Branches, and Merging Pull Requests </li>
  <li>Communicating using Markdown: Adding Headers, Images, and Lists </li>
@@ -98,7 +98,7 @@ With the completion of the Linux Essentials course, I was able to install Virtua
   <h4> Description: </h4>
   With the completion of the Amazon Web Services Essentials course on <a href="https://linuxacademy.com">Linux Academy,</a> I was able to be introduced to the core of AWS services and the ability of applying the following concepts to real-world applications. Additonally, I learned how to setup my personal AWS account, understand management tools, and how AWS uses its platform to manage databases, storage services, and elastic cloud computations. AWS has become beneficial for organizations to stay ahead or keep up with new resources and capabilities.
   
-  <h4><a href="https://linuxacademy.com/cp/modules/view/id/241?redirect_uri=https://app.linuxacademy.com/search?query=w&categories=AWS&type=Course">Course Topics:<a/></h4>
+  <h4><a href="https://linuxacademy.com/cp/modules/view/id/241?redirect_uri=https://app.linuxacademy.com/search?query=w&categories=AWS&type=Course">Course Topics:</a></h4>
   <ul>
 <li>Managing AWS Access with Users, Groups, and Roles</li>
 <li>Networking Services and Connectivity</li>  
