@@ -4,7 +4,7 @@ Make sure to click the arrow tabs to see my completion and progression of Techni
 
 <h2> Technical Skills </h2>
 
-<details><summary>GITHUB LEARNING LAB</summary>
+<details><summary>Github Learning Lab</summary>
   
   
   <h4> Description: </h4>
@@ -119,3 +119,31 @@ After completing the AWS Essentials course, I configured an additonal Virtual Pr
 <br>
 <img src="AWSInstan.png" alt="AWSI">
 <img src="OpenAWS.png" alt="OAWS">
+</details>
+
+<details><summary>PowerShell</summary>
+  
+  
+  <h4> Description: </h4>
+  With the completion of the PowerShell 5 Essential Training provided by <a href="https://www.linkedin.com/learning/powershell-5-essential-training/welcome">LinkedIn,</a> I was introduced to the basics of PowerShell 5 and the capabilities you can access and work within the Windows operating system. For example, I was able to learn and grasp the automation security, scripting, and integrated scripting environment (ISE) topics for a better understanding of scripting and automation in Windows PowerShell. This course also included content about understanding how to utilize cmdlets with administator access and the useful assistance of help commands for syntax, csv and xml file exports and imports, and script writing in the ISE.
+  
+  <h4><a href="https://www.linkedin.com/learning/powershell-5-essential-training/welcome">Course Topics:<a/></h4>
+  <ul>
+<li>Getting Ready for PowerShell</li>
+<li>Discovery and Getting Help</li>  
+<li>Extending Your Capabilities with PowerShell</li>
+<li>Using the Power of the Pipeline</li> 
+<li>Database Services</li>
+<li>Getting More out of Objects</li>
+<li>Scripts and Automation</li>
+<li>Scalable Management with PowerShell Remoting</li>  
+</ul>
+  
+ <h4> PowerShell 5 Essential Course Completion Certificate: </h4>
+<img src="PowerShellCert.png" alt="PSC">
+</details>
+
+<details><summary>SalesForce</summary>
+  
+  
+  <h4> Work In Progress </h4>
