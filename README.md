@@ -52,7 +52,7 @@ Make sure to click the arrow tabs to see my completion and progression of Techni
 
 <details><summary>Power BI Dashboard</summary>
 <br>
-A requirement for my Emergent Tech Skills class, I was able to complete and design a dashboard from the <a href="https://docs.microsoft.com/en-us/power-bi/sample-supplier-quality">Supplier Quality Analysis sample</a> provided by Microsoft. Clicking the following link will provide you a video demostration of my dashboard: <a href="https://youtu.be/-NOagJzF1gU">Supplier Quality Analysis Dashboard</a>
+A requirement for my Emergent Tech Skills class included the ability to complete and design a dashboard from the <a href="https://docs.microsoft.com/en-us/power-bi/sample-supplier-quality">Supplier Quality Analysis sample</a> provided by Microsoft. Clicking the following link will provide you a video demostration of my dashboard: <a href="https://youtu.be/-NOagJzF1gU">Supplier Quality Analysis Dashboard.</a>  Having the tools to be able to create a visualization with important information is one of the most valuble assets about using Power BI!
 <br>
 <br>
   The following is a shared link to my PowerBI dashboard for public viewing:
