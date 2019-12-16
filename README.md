@@ -146,4 +146,16 @@ After completing the AWS Essentials course, I configured an additonal Virtual Pr
 <details><summary>SalesForce</summary>
   
   
-  <h4> Work In Progress </h4>
+  <h4> Description: </h4>
+  With the completion of the Salesforce Admin Beginner Course provided by <a href="https://trailhead.salesforce.com/en/content/learn/trails/force_com_admin_beginner">Trailhead,</a> I was introduced to the basics and utilities in Salesforce. As I was progressing through this course, I learned how to create reports with filters, create objects, fields and relationships, export and import data from different sources, and the ability to provide and create unique visualizations that can be made for many key business aspects. Being exposed and introduced to these topics and steps helped me understand the capabilities cloud technology can have on businesses and indivduals too!
+  
+<h4><a href="https://trailhead.salesforce.com/en/content/learn/trails/force_com_admin_beginner">Course Topics:</a></h4>
+  <ul>
+<li>Salesforce Platform Basics</li>
+<li>Data Modeling</li>  
+<li>Data Management</li>
+<li>Lightning Experience Customization</li> 
+<li>Salesforce Mobile App Customization</li>
+<li>User Engagement</li>
+<li>Reports & Dashboards for Lightning Experience</li> 
+</ul>
