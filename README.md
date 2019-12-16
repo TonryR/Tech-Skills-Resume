@@ -161,6 +161,6 @@ After completing the AWS Essentials course, I configured an additonal Virtual Pr
 </ul>
 
  <h4> Salesforce Admin Beginner Course Completion & Badges: </h4>
-<img src="Profile.png" alt="P">
-<img src="Badges.png" alt="B">
+<img src="Profile.png" alt="Pro">
+<img src="Badges.png" alt="Bad">
 </details>
