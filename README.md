@@ -159,3 +159,8 @@ After completing the AWS Essentials course, I configured an additonal Virtual Pr
 <li>User Engagement</li>
 <li>Reports & Dashboards for Lightning Experience</li> 
 </ul>
+
+ <h4> Salesforce Admin Beginner Course Completion & Badges: </h4>
+<img src="Profile.png" alt="P">
+<img src="Badges.png" alt="B">
+</details>
